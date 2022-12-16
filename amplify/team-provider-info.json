@@ -10,6 +10,14 @@
       "StackName": "amplify-atlasofus-dev-220834",
       "StackId": "arn:aws:cloudformation:us-east-2:145880140878:stack/amplify-atlasofus-dev-220834/ee0c2f30-7cee-11ed-b0f7-02ebfc419d8a",
       "AmplifyAppId": "dex9x9fjs80i0"
+    },
+    "categories": {
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "dex9x9fjs80i0",
+          "type": "cicd"
+        }
+      }
     }
   }
 }
