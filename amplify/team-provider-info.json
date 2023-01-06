@@ -17,6 +17,15 @@
           "appId": "dex9x9fjs80i0",
           "type": "cicd"
         }
+      },
+      "function": {
+        "AOUuser": {
+          "deploymentBucketName": "amplify-atlasofus-dev-220834-deployment",
+          "s3Key": "amplify-builds/AOUuser-45555336647548725369-build.zip"
+        }
+      },
+      "api": {
+        "user": {}
       }
     }
   }
