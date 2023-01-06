@@ -10,6 +10,11 @@
       "StackName": "amplify-atlasofus-master-231319",
       "StackId": "arn:aws:cloudformation:us-east-2:145880140878:stack/amplify-atlasofus-master-231319/b587a0b0-8e17-11ed-914c-0ace7357f858",
       "AmplifyAppId": "d2hixdzg0zupn4"
+    },
+    "categories": {
+      "function": {
+        "aouuser": {}
+      }
     }
   },
   "dev": {
